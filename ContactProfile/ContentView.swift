@@ -21,7 +21,7 @@ struct ContentView: View {
                     .frame(width: 170, height: 170)
                     .clipShape(/*@START_MENU_TOKEN@*/Circle()/*@END_MENU_TOKEN@*/)
                     .overlay(Circle().stroke(Color(.white), lineWidth: 4))
-                Text("Emerson Javid")
+                Text(" Emerson Javid ")
                     .font(Font.custom("Pacifico-Regular", size: 40))
                     .foregroundColor(.white)
                     .bold()
