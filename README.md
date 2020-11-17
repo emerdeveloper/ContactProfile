@@ -11,7 +11,7 @@ Applying the concepts:
 * extract Subviews to create reusable SwiftUI components
 
 
-# Funcinality
+# Functionality
 Its a beautiful card presentation or contact profile of a software developer.
 
 
